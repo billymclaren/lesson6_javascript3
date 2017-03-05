@@ -13,8 +13,7 @@ LIS 2360:  Web Application Development
 (I inserted the necessary code to make a photo gallery function.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://billymclaren.github.io/lesson6_javascript3/Student_Lesson6_PhotoGallery/index.html)
 
 ### Lessons Learned in the Assignment:
 1. (Each element on a web page is represented in the HTML DOM by its own object.)
