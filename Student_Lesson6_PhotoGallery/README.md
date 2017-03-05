@@ -4,19 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(March 5, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(William McLaren)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(I inserted the necessary code to make a photo gallery function.)
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Each element on a web page is represented in the HTML DOM by its own object.)
+2. (Arguments enclosed in single set of quotes, with class names separated by spaces)
+3. (The innerHTML property is used to get or replace the content of an HTML element.)
